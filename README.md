@@ -7,6 +7,8 @@ Use Tableau to create visualizations for New York City bikeshare data in 2019. T
 - How often and for how much time are bikes being used?
 
 ## Results
+View published analysis in Tableau [here.](https://public.tableau.com/app/profile/pau.rodriguez/viz/NYC_Citibike_Challenge_16487775826580/NYC_Citibike_Analysis)
+
 ![customer-description](https://github.com/nedflowers/bikesharing/blob/main/images/customer-description.png)
 More than 3/4 of the users are Subscribers, who muse Bikeshare regularly. Bikeshare program users are also predominantly male, at approximately 5/8 to only about 1/4 female.
 
@@ -34,5 +36,5 @@ In conclusion, bikeshare services are consistently used in busier metropolitan a
 
 I suggest further exploration of data with the following:
 
-A map tracking bike routes during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods.
-Average trip duration by gender, by hour, and by season to determine if their is a difference between tourist and commuter demographics.
+- A map tracking bike routes during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods.
+- Average trip duration by gender, by hour, and by season to determine if their is a difference between tourist and commuter demographics.
