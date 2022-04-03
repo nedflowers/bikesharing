@@ -7,7 +7,7 @@ Use Tableau to create visualizations for New York City bikeshare data in 2019. T
 - How often and for how much time are bikes being used?
 
 ## Results
-View published analysis in Tableau [here.](https://public.tableau.com/app/profile/pau.rodriguez/viz/NYC_Citibike_Challenge_16487775826580/NYC_Citibike_Analysis)
+View published analysis in Tableau [here.](https://public.tableau.com/views/NYC_Citibike_Challenge_16487775826580/NYC_Citibike_Analysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![customer-description](https://github.com/nedflowers/bikesharing/blob/main/images/customer-description.png)
 More than 3/4 of the users are Subscribers, who muse Bikeshare regularly. Bikeshare program users are also predominantly male, at approximately 5/8 to only about 1/4 female.
